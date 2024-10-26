@@ -14,7 +14,7 @@
 - 🌱 I'm currently learning: Compose, Node y Docker
 - 👯 I'm looking to collaborate on: I want to participate in sdks, open source projects or some apps
 - 💬 Ask me about: Kotlin, Compose, Android.
-- ⚡ Fun fact: Me gusta armar legos
+- ⚡ Fun fact: I like to build legos and make barbecues.
 
 ## Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px">
 
