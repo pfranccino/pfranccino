@@ -12,7 +12,7 @@
 
 - 🔭 I'm currently working on: MACH
 - 🌱 I'm currently learning: Compose, Node y Docker
-- 👯 I'm looking to collaborate on: Proyectos
+- 👯 I'm looking to collaborate on: I want to participate in sdks, open source projects or some apps
 - 💬 Ask me about: Kotlin, Compose, Android.
 - ⚡ Fun fact: Me gusta armar legos
 
