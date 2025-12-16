@@ -33,18 +33,19 @@ He tenido la oportunidad de trabajar en proyectos desafiantes donde priorizo:
 ### 🏆 Mis Logros y Actividad
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=pfranccino&theme=tokyonight&margin-w=4" alt="pfranccino trophies" />
-  </a>
-  <br/>
-  <br/>
-  <a href="https://github.com/pfranccino">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=pfranccino&theme=tokyonight&hide_border=true" alt="pfranccino streak" />
-  </a>
-  <br/>
-  <a href="https://github.com/pfranccino">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pfranccino&layout=compact&theme=tokyonight&hide_border=true" alt="pfranccino languages" />
-  </a>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=pfranccino&theme=tokyonight&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+<br/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=pfranccino&theme=tokyonight&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
+
+<br/>
+
+<a href="https://github.com/pfranccino">
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pfranccino&layout=compact&theme=tokyonight&hide_border=true" alt="pfranccino languages" />
+</a>
+
 </div>
 
 ---
