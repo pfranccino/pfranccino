@@ -33,11 +33,6 @@ He tenido la oportunidad de trabajar en proyectos desafiantes donde priorizo:
 ### 🏆 Mis Logros y Actividad
 
 <div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=pfranccino&theme=tokyonight&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
-
-<br/>
-
 <a href="https://github.com/pfranccino">
   <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pfranccino&layout=compact&theme=tokyonight&hide_border=true" alt="pfranccino languages" />
 </a>
