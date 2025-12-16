@@ -34,9 +34,7 @@ He tenido la oportunidad de trabajar en proyectos desafiantes donde priorizo:
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=pfranccino&theme=tokyonight&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-<br/>
+  <br/>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=pfranccino&theme=tokyonight&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
 
