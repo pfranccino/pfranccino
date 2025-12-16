@@ -34,8 +34,6 @@ He tenido la oportunidad de trabajar en proyectos desafiantes donde priorizo:
 
 <div align="center">
 
-  <br/>
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=pfranccino&theme=tokyonight&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
 
 <br/>
@@ -62,5 +60,5 @@ Aquí comparto guías y reflexiones sobre **arquitectura, calidad de software y 
 <p align="left">
 <a href="https://medium.com/@pfranccino" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
 <a href="https://open.spotify.com/playlist/3OLbJ8Ws43vtOeSxXN7BtJ?si=myoF7zIQQUezmQjEWkluJA" target="blank"><img align="center" src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" /></a>
-<a href="mailto:paul.ayala023@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+<a href="https://www.linkedin.com/in/paul-franccino-ayala/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
