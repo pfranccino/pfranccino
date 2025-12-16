@@ -1,47 +1,67 @@
-# Hello Fellow <Developers/>! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hola, soy Paul Franccino Ayala 👋
 
-[![Github](https://img.shields.io/github/followers/pfranccino?label=Follow&style=social)](https://github.com/pfranccino)
+### Ingeniero de Software | Desarrollador Android Senior
 
-<div size='20px'>
-  Hi! My name is Paul. Thank You for taking the time to view my GitHub Profile :smile:
+Soy un ingeniero de software con más de 5 años de experiencia creando aplicaciones Android nativas escalables y de alta calidad. Me especializo en **arquitectura de software**, **performance** y en la implementación de patrones modernos como **MVI** y **Jetpack Compose**.
+
+En mis tiempos libres, me encontrarás preparando los mejores **asados** 🥩 o buscando el *track* perfecto en mi **[playlist de Spotify](https://open.spotify.com/playlist/3OLbJ8Ws43vtOeSxXN7BtJ?si=myoF7zIQQUezmQjEWkluJA)** 🎧.
+
+---
+
+### 💡 Experiencia Destacada
+
+He tenido la oportunidad de trabajar en proyectos desafiantes donde priorizo:
+
+* **Escala:** Experiencia en equipos responsables de apps con **+1 millón de usuarios activos**.
+* **Calidad:** Fomento de la cultura de testing, logrando coberturas superiores al **50% en módulos críticos**.
+* **Eficiencia:** Interés constante en mejorar los flujos de trabajo para reducir tiempos de entrega.
+
+---
+
+### 🛠️ Tech Stack
+
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Fastlane](https://img.shields.io/badge/fastlane-00F200?style=for-the-badge&logo=fastlane&logoColor=white)
+
+---
+
+### 🏆 Mis Logros y Actividad
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=pfranccino&theme=tokyonight&margin-w=4" alt="pfranccino trophies" />
+  </a>
+  <br/>
+  <br/>
+  <a href="https://github.com/pfranccino">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=pfranccino&theme=tokyonight&hide_border=true" alt="pfranccino streak" />
+  </a>
+  <br/>
+  <a href="https://github.com/pfranccino">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pfranccino&layout=compact&theme=tokyonight&hide_border=true" alt="pfranccino languages" />
+  </a>
 </div>
 
-## About Me
+---
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+### ✍️ Mis Últimos Artículos
 
-- 🔭 I'm currently working on: MACH
-- 🌱 I'm currently learning: Compose, Node y Docker
-- 👯 I'm looking to collaborate on: I want to participate in sdks, open source projects or some apps
-- 💬 Ask me about: Kotlin, Compose, Android.
-- ⚡ Fun fact: I like to build legos and make barbecues.
+Aquí comparto guías y reflexiones sobre **arquitectura, calidad de software y desarrollo Android**:
 
-## Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px">
+* [Implementación Paso a Paso del Cliente Local de Codecov en Proyectos Android](https://medium.com/@pfranccino/implementaci%C3%B3n-paso-a-paso-del-cliente-local-de-codecov-en-proyectos-android-b4cf2e1d5c0e)
+* [Mi experiencia con la distribución automatizada de APK](https://medium.com/@pfranccino/mi-experiencia-con-la-distribuci%C3%B3n-automatizada-de-apk-f655883626e8)
 
-<a href="https://github.com/pfranccino?tab=repositories&q=&type=&language=android&sort=">
-  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/android.svg">
-</a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/pfranccino?tab=repositories&q=&type=&language=sqlite&sort=">
-  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sqlite.svg">
-</a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/pfranccino?tab=repositories&q=&type=&language=python&sort=">
-  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg">
-</a>
+---
 
-## Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
+### 📫 Conectemos
 
-<a href="https://www.linkedin.com/in/paul-franccino-ayala/">
-  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/>
-</a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://medium.com/@pfranccino">
-  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/>
-</a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.github.com/pfranccino">
-  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/>
-</a>
-
-<br>
-<br>
-
-## My stats
-![Paul GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pfranccino&theme=tokyonight) 
+<p align="left">
+<a href="https://medium.com/@pfranccino" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
+<a href="https://open.spotify.com/playlist/3OLbJ8Ws43vtOeSxXN7BtJ?si=myoF7zIQQUezmQjEWkluJA" target="blank"><img align="center" src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" /></a>
+<a href="mailto:paul.ayala023@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+</p>
