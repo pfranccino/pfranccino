@@ -89,12 +89,12 @@ Fuera del código, probablemente estoy preparando el mejor **asado** 🥩 o desc
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pfranccino&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0095D5&icon_color=0095D5&text_color=C9D1D9" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pfranccino&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0095D5&icon_color=0095D5&text_color=C9D1D9" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pfranccino&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0095D5&text_color=C9D1D9" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pfranccino&theme=tokyonight&hide_border=true&background=0D1117&ring=0095D5&fire=0095D5&currStreakLabel=0095D5" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pfranccino&include_all_commits=true&theme=tokyonight&hide_border=true&background=0D1117&ring=0095D5&fire=0095D5&currStreakLabel=0095D5" />
 </p>
 
 ---
