@@ -99,14 +99,6 @@ Fuera del código, probablemente estoy preparando el mejor **asado** 🥩 o desc
 
 ---
 
-### 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pfranccino&theme=algolia&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" />
-</p>
-
----
-
 <p align="center">
   <i>«El buen software no nace de la prisa, sino de la disciplina.»</i>
 </p>
