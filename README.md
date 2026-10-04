@@ -94,7 +94,7 @@ Fuera del código, probablemente estoy preparando el mejor **asado** 🥩 o desc
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pfranccino&include_all_commits=true&theme=tokyonight&hide_border=true&background=0D1117&ring=0095D5&fire=0095D5&currStreakLabel=0095D5" />
+  <img src="https://streak-stats.demolab.com/?user=pfranccino&theme=tokyonight&hide_border=true&background=0D1117&ring=0095D5&fire=0095D5&currStreakLabel=0095D5" />
 </p>
 
 ---
@@ -102,7 +102,7 @@ Fuera del código, probablemente estoy preparando el mejor **asado** 🥩 o desc
 ### 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pfranccino&theme=algolia&no-frame=true&column=4&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=pfranccino&theme=algolia&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" />
 </p>
 
 ---
